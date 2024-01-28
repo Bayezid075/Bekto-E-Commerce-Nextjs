@@ -7,6 +7,10 @@ export default function Home() {
       <Headbar />
       <p>Hello from Bekto</p>
       <p>Hello from working season 2</p>
+      <p>Hello from working season 2</p>
+      <p>Hello from working season 2</p>
+      <p>Hello from working season 2</p>
+      <p>Hello from working season 2</p>
     </main>
   );
 }
