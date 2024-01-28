@@ -1,3 +1,28 @@
+.mainBar{
+  width: 100%;
+  background: #7E33E0;
+  margin: 0;
+  padding: 10px;
+  height: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
 .icons {
-  color: red;
+  color: white;
+  width: 16px;
+  
+}
+.leftList{
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.leftList> li {
+  list-style: none;
+  margin: 0 10px;
+}
+.leftList>li>span{
+  margin: 0 5px;
 }
